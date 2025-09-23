@@ -43,7 +43,7 @@ int main() {
 }
 ~~~
 ## OUTPUT
-![alt text](1.png)
+![alt text](img/1.png)
 ## C Program to execute Linux system commands using Linux API system calls exec()
 ~~~c
 #include <stdlib.h>
@@ -71,8 +71,8 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ~~~
 ## OUTPUT
-![alt text](2.png)
-![alt text](3.png)
+![alt text](img/2.png)
+![alt text](img/3.png)
 ## C Program to execute Linux system commands using Linux API system calls exit(),wait():
 ~~~c
 #include <stdio.h>
@@ -117,6 +117,6 @@ int main() {
 }
 ~~~
 ## OUTPUT:
-![alt text](4.png)
+![alt text](img/4.png)
 # RESULT:
 The programs are executed successfully.
