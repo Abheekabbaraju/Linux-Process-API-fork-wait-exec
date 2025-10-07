@@ -10,6 +10,7 @@ To write C Program that uses Linux Process API - fork(), wait(), exec()
 # DESIGN STEPS:
 
 ### Step 1:
+![Alt text](img/ssh.png)
 
 Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
 
@@ -71,7 +72,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ~~~
 ## OUTPUT
-![alt text](img/2.png)
+![Alt text](img/2.png)
 ![alt text](img/3.png)
 ## C Program to execute Linux system commands using Linux API system calls exit(),wait():
 ~~~c
